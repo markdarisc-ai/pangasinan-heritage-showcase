@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750">
+<defs><linearGradient id="sky" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#bde8f5"/><stop offset="1" stop-color="#eef8f5"/></linearGradient></defs>
+<rect width="1200" height="750" fill="url(#sky)"/><circle cx="950" cy="130" r="70" fill="#f8c66d"/>
+<rect y="410" width="1200" height="340" fill="#4ba7b5"/>
+<path d="M0 510 Q180 450 350 520 T700 500 T1200 520 V750 H0Z" fill="#267e91"/>
+<path d="M120 510 Q180 380 250 510Z M320 525 Q430 335 540 525Z M650 520 Q735 390 825 520Z M900 525 Q990 350 1090 525Z" fill="#f0d7a1"/>
+<path d="M80 565 Q160 520 250 565 T420 565 T590 565 T760 565 T930 565 T1120 565" fill="none" stroke="#b7edf2" stroke-width="12"/>
+<text x="60" y="90" font-family="Arial" font-size="42" font-weight="700" fill="#102a43">HUNDRED ISLANDS</text>
+</svg>

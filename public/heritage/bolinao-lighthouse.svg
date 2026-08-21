@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750">
+<rect width="1200" height="750" fill="#dff3f4"/><rect y="440" width="1200" height="310" fill="#3d93a5"/>
+<path d="M0 535 Q220 470 430 540 T850 520 T1200 550 V750 H0Z" fill="#2b6f82"/>
+<path d="M510 520 L565 210 L635 210 L690 520Z" fill="#f7f3e8" stroke="#102a43" stroke-width="8"/>
+<rect x="535" y="160" width="125" height="70" rx="8" fill="#102a43"/><circle cx="597" cy="185" r="25" fill="#f8c66d"/>
+<path d="M530 280 H670 M525 330 H675 M518 380 H682" stroke="#c9b99a" stroke-width="16"/>
+<path d="M460 520 Q600 470 740 520" fill="none" stroke="#f7f3e8" stroke-width="22"/>
+<text x="60" y="90" font-family="Arial" font-size="42" font-weight="700" fill="#102a43">BOLINAO LIGHTHOUSE</text>
+</svg>
